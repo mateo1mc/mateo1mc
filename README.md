@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @mateo1mc
+- 👋 Hi, I’m MATEO
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on everyone who is interested on helping others to learn more about coding.
+- 💞️ I’m looking to collaborate with everyone who is interested in helping others to learn more about coding.
 - 📫 How to reach me? Easy, you can find me on LinkedIn https://www.linkedin.com/in/mateo1mc/
 
 <!---
