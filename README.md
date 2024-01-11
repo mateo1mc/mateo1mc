@@ -1,3 +1,14 @@
+<!-- TOP -->
+<img src="neon_line.gif" width="100%">
+
+<!--- GITHUB_SNAKE -->
+<div align="center">
+  <img  src="github_snake.svg"
+       alt="snake" /></a>
+</div>
+<br>
+<br>
+
 - 👋 Hi, I’m MATEO, passionate about building innovative applications and exploring new technologies through coding.
 - 👀 I’m proficient in Python, JavaScript, HTML, and CSS for creating interactive web applications and automating tasks.
 - 🌱 Currently diving into machine learning and open-source contributions.
@@ -13,3 +24,6 @@
   </a>
 </p>
 <br><br>
+
+<!-- BOTTOM -->
+<img src="neon_line.gif" width="100%">
