@@ -3,3 +3,13 @@
 - 🌱 Currently diving into machine learning and open-source contributions.
 - 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives.
 - 📫 Let’s connect on LinkedIn: [Mateo C.](https://www.linkedin.com/in/mateo1mc/).
+
+<br><br>
+<h3 align = "center">Support Me</h3>
+<p align = "center">
+  <a href="https://www.buymeacoffee.com/mateo1mc"> 
+    <img align="center" 
+      src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
+  </a>
+</p>
+<br><br>
