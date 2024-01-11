@@ -3,7 +3,7 @@
 
 <!--- GITHUB_SNAKE -->
 <div align="center">
-  <img  src="github_snake.svg"
+  <img  src="https://github.com/mateo1mc/mateo1mc/blob/main/github_snake.svg"
        alt="snake" /></a>
 </div>
 <br>
