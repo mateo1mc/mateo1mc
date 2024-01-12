@@ -13,7 +13,7 @@
 - 👀 I’m proficient in Python, JavaScript, HTML, and CSS for creating interactive web applications and automating tasks.
 - 🌱 Currently diving into machine learning and open-source contributions.
 - 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives.
-- 📫 Let’s connect on LinkedIn: [Mateo C.](https://www.linkedin.com/in/mateo1mc/).
+- 📫 Let’s connect on LinkedIn: [MATEO C.](https://www.linkedin.com/in/mateo1mc/).
 
 <br><br>
 <h3 align = "center">Support Me</h3>
