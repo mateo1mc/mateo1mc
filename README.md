@@ -4,7 +4,7 @@
 <!--- GITHUB_SNAKE -->
 <div align="center">
   <img  src="https://github.com/mateo1mc/mateo1mc/blob/main/github_snake.svg"
-       alt="snake" /></a>
+       alt="GIT_snake" /></a>
 </div>
 <br>
 <br>
