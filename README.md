@@ -18,9 +18,9 @@
 <br><br>
 <h3 align = "center">Support Me</h3>
 <p align = "center">
-  <a href="https://www.buymeacoffee.com/mateo1mc"> 
+  <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank"> 
     <img align="center" 
-      src="buymeacoffee_mateo1mc.png" target="_blank" height="45" width="170" alt="mateo1mc" />
+      src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
   </a>
 </p>
 <br><br>
