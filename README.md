@@ -17,12 +17,12 @@
 
 <br><br>
 <h3 align = "center">Support Me</h3>
-<p align = "center">
-  <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank"> 
-    <img align="center" 
-      src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
+<p align="center">
+  <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank">
+    <img align="center" src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
   </a>
 </p>
+
 <br><br>
 
 <!-- BOTTOM -->
