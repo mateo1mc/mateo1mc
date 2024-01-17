@@ -20,7 +20,7 @@
 <p align = "center">
   <a href="https://www.buymeacoffee.com/mateo1mc"> 
     <img align="center" 
-      src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
+      src="buymeacoffee_mateo1mc.png" target="_blank" height="45" width="170" alt="mateo1mc" />
   </a>
 </p>
 <br><br>
