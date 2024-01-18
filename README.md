@@ -15,10 +15,10 @@
 - 🌱 Currently diving into machine learning and open-source contributions.
 - 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives.
 
-<h3 align = "center">My Skills</h3>
+<h2 align = "center">My Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,vscode,js,html,css,github,git,gitlab,autocad,ai,ps,bootstrap,cpp,docker,powershell,wordpress" />
+    <img src="https://skillicons.dev/icons?i=py,django,vscode,js,html,css,wordpress,github,git,gitlab,cpp,autocad,bootstrap,powershell,docker,ai,ps&perline=7" />
   </a>
 </p>
 
