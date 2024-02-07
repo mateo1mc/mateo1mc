@@ -8,12 +8,12 @@
 </div>
 <br>
 <br>
-
+<h1 align="center"> Software Engineer/Developer | Python Automation Engineer <br> Full Stack Web Developer | Freelancer </h1>
 
 - 👋 Hi, I’m MATEO, passionate about building innovative applications and exploring new technologies through coding.
 - 👀 I’m proficient in Python, JavaScript, HTML, and CSS for creating interactive web applications and automating tasks.
 - 🌱 Currently diving into machine learning and open-source contributions.
-- 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives.
+- 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives and more.
 <br><br>
 <!-- My Skills -->
 <h2 align="center">My Skills</h2>
