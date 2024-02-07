@@ -7,9 +7,11 @@
        alt="GIT_snake" /></a>
 </div>
 <br>
-<br>
+<p align="center">
+  <img src="https://media3.giphy.com/media/k8YiehGSOlsOtNUJHI/giphy.gif" alt="MC-GoldLogo" height="100" width="auto" />
+</p>
 <h1 align="center"> Software Engineer/Developer | Python Automation Engineer <br> Full Stack Web Developer | Freelancer </h1>
-
+<br>
 - 👋 Hi, I’m MATEO, passionate about building innovative applications and exploring new technologies through coding.
 - 👀 I’m proficient in Python, JavaScript, HTML, and CSS for creating interactive web applications and automating tasks.
 - 🌱 Currently diving into machine learning and open-source contributions.
