@@ -12,9 +12,9 @@
     alt="MC-GoldLogo" height="100" width="auto" />
 </p>
 <!-- Profile Views -->
-<div id="badges" align="center">
+<!-- <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&base=1111&abbreviated=true&label=Profile+Views" />
-</div>
+</div> -->
 <h1 align="center"> Software Engineer/Developer | Python Automation Engineer <br> Full Stack Web Developer | Freelancer </h1>
 <br>
 
