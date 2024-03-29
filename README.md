@@ -38,13 +38,13 @@
   <a href="https://www.linkedin.com/in/mateo1mc/" target="blank"><img align="center" src="LinkedIn_Logo.png" alt="linkedin" height="80" width="80" /></a>
   <a href="https://github.com/mateo1mc/" target="blank"><img align="center" src="GitHub_Logo.png" alt="github" height="80" width="80" /></a>
 </p>
-<br>
+<!-- <br>
 <h2 align = "center">Support Me</h2>
 <p align="center">
   <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank">
     <img align="center" src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
   </a>
 </p>
-<br>
+<br> -->
 <!-- BOTTOM -->
 <img src="neon_line.gif" width="100%">
