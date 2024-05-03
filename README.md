@@ -28,7 +28,7 @@
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,vscode,js,html,css,wordpress,github,git,gitlab,cpp,autocad,bootstrap,powershell,docker,ai,ps&perline=7" />
-  </a>
+  </a> . . . and more
 </p>
 <br>
 <!-- Connect with me -->
