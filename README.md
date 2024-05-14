@@ -27,7 +27,7 @@
 <h2 align="center">My Skills</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,django,vscode,js,html,css,wordpress,github,git,gitlab,cpp,autocad,bootstrap,powershell,docker,ai,ps&perline=7" />
+    <img src="https://skillicons.dev/icons?i=py,django,flask,vscode,js,html,css,wordpress,github,git,gitlab,cpp,autocad,bootstrap,powershell,docker,ai,ps&perline=7" />
   </a> . . . and more
 </p>
 <br>
