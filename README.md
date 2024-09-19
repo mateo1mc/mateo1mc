@@ -40,13 +40,13 @@
   <a href="https://github.com/mateo1mc/" target="blank"><img align="center" src="GitHub_Logo.png" alt="github" height="80" width="80" /></a>
   <a href="https://www.upwork.com/freelancers/~019d730a724c226d73" target="blank"><img align="center" src="upwork_Logo.png" alt="upwork" height="80" width="80" /></a>
 </p>
-<!-- <br>
+<br>
 <h2 align = "center">Support Me</h2>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank">
-    <img align="center" src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" />
+<!--   <a href="https://www.buymeacoffee.com/mateo1mc" target="_blank"><img align="center" src="buymeacoffee_mateo1mc.png" height="45" width="170" alt="mateo1mc" /> -->
+    <a href="https://www.paypal.com/paypalme/mateo1mc" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Paypal_2014_logo.png" height="75" alt="mateo1mcpaypal" />
   </a>
 </p>
-<br> -->
+<br>
 <!-- BOTTOM -->
 <img src="neon_line.gif" width="100%">
