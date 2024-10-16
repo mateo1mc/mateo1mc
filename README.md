@@ -38,8 +38,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/mateo1mc/" target="blank"><img align="center" src="LinkedIn_Logo.png" alt="linkedin" height="80" width="80" /></a>
   <a href="https://github.com/mateo1mc/" target="blank"><img align="center" src="GitHub_Logo.png" alt="github" height="80" width="80" /></a>
-  <a href="https://www.upwork.com/freelancers/~019d730a724c226d73" target="blank"><img align="center" src="upwork_Logo.png" alt="upwork" height="80" width="80" /></a>
-</p>
+<!--   <a href="https://www.upwork.com/freelancers/~019d730a724c226d73" target="blank"><img align="center" src="upwork_Logo.png" alt="upwork" height="80" width="80" /></a> -->
+</p> 
 <br>
 <h2 align = "center">Support Me</h2>
 <p align="center">
