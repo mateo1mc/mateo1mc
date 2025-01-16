@@ -19,7 +19,8 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&base=1111&abbreviated=true&label=Profile+Views" /> -->
   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&abbreviated=true&label=Profile+Views" />
 </div>
-<h1 align="center"> Software Engineer | Full-Stack Developer | AI Enthusiast | Aspiring Data Scientist
+<h1 align="center"> Software Engineer | Full-Stack Developer | AI Enthusiast
+  <br>Aspiring Data Scientist
 <br>Building Intelligent Solutions with Code and Vision</h1>
 <br>
 
