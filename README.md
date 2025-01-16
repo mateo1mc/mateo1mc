@@ -19,13 +19,16 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&base=1111&abbreviated=true&label=Profile+Views" /> -->
   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&abbreviated=true&label=Profile+Views" />
 </div>
-<h1 align="center"> Software Engineer & Designer<br>Building Smart Solutions with Code and Creativity</h1>
+<h1 align="center"> Software Engineer | Full-Stack Developer | AI Enthusiast | Aspiring Data Scientist
+<br>Building Intelligent Solutions with Code and Vision</h1>
 <br>
 
-- 👋 Hi, I’m MATEO, passionate about building innovative applications and exploring new technologies through coding.
-- 👀 I’m proficient in Python {Django/Flask}, JavaScript, HTML, and CSS for creating interactive web applications and automating tasks.
-- 🌱 Currently diving into machine learning and open-source contributions.
-- 💡 Eager to collaborate on projects focusing on machine learning, web development, or open-source initiatives and more.
+- 👋 Hi, I’m Mateo, a tech enthusiast passionate about innovation and problem-solving.
+- 👨‍💻 Experienced in Python (Django/Flask), JavaScript, HTML, and CSS, I specialize in full-stack web development and task automation.
+- 🌱 Currently advancing in data science, focusing on machine learning, AI, and C++.
+- 🤝 Open to collaborations that drive impact in data science, AI development, and cutting-edge technologies.
+- ✨ Let's transform ideas into groundbreaking solutions!
+
 <br>
 <!-- My Skills -->
 <h2 align="center">My Skills</h2>
