@@ -19,7 +19,7 @@
 <!--   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&base=1111&abbreviated=true&label=Profile+Views" /> -->
   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&abbreviated=true&label=Profile+Views" />
 </div>
-<h1 align="center"> Software Engineer | Designer | Python Trainer</h1>
+<h1 align="center"> Software Engineer | Python Trainer | Designer </h1>
 <br>
 
 - 👋 Hi, I’m Mateo, a tech enthusiast passionate about innovation and problem-solving.
