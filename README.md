@@ -11,8 +11,14 @@
 </div>
 <br>
 <p align="center">
-  <img src="https://media3.giphy.com/media/k8YiehGSOlsOtNUJHI/giphy.gif" 
-    alt="MC-GoldLogo" height="100" width="auto" />
+  <a href="https://mateocela.com" target="blank" rel="noopener noreferrer">
+    <img
+      src="https://media3.giphy.com/media/k8YiehGSOlsOtNUJHI/giphy.gif"
+      alt="MC-GoldLogo"
+      height="100"
+      width="auto"
+    />
+  </a>
 </p>
 <!-- Profile Views -->
 <div id="badges" align="center">
