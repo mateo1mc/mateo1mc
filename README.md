@@ -28,11 +28,11 @@
 <h1 align="center"> Software Engineer | Python Trainer | Designer </h1>
 <br>
 
-- 👋 Hi, I’m Mateo, a tech enthusiast passionate about innovation and problem-solving.
-- 👨‍💻 Experienced in Python (Django/Flask), JavaScript, HTML, and CSS, I specialize in full-stack web development and task automation.
-- 🌱 Currently advancing in data science, focusing on machine learning, AI, and C++.
-- 🤝 Open to collaborations that drive impact in data science, AI development, and cutting-edge technologies.
-- ✨ Let's transform ideas into groundbreaking solutions!
+- **👋 Hi, I'm Mateo (MC)** – Full-stack developer with a passion for clean, efficient code
+- **💼 Professional Focus**: Web platforms, automation systems, and practical AI integration
+- **🎓 Python Trainer**: Teaching teams from fundamentals to real-world applications
+- **🎨 Designer Mindset**: Creating brand-aligned, user-centric digital experiences
+- **🔧 Automation Expert**: Streamlining workflows through custom scripts and integrations
 
 <br>
 <!-- My Skills -->
