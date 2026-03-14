@@ -54,6 +54,13 @@
 Languages, frameworks, and tools I use in my projects.
 </p>
 
+### What I Build
+
+- Full-stack web applications  
+- Backend APIs and system architecture  
+- Automation tools and integrations  
+- Developer utilities and internal tools
+
 <br>
 
 <!-- Connect -->
