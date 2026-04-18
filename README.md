@@ -43,7 +43,7 @@
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,django,flask,vscode,js,html,css,php,wordpress,github,git,gitlab,cpp,autocad,bootstrap,powershell,docker,ai,ps&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,django,flask,vscode,js,html,css,php,mysql,postgres,sqlite,pycharm,wordpress,github,git,gitlab,bash,powershell,cpp,bootstrap,tailwind,docker,aws,selenium,regex,stackoverflow,ai,ps,autocad&perline=7" />
 </p>
 
 <p align="center">
