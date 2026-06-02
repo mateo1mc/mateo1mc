@@ -26,7 +26,7 @@
   <img src="https://komarev.com/ghpvc/?username=mateo1mc&color=brightgreen&abbreviated=true&label=Profile+Views" />
 </div>
 
-<h1 align="center">Software Engineer | Python Trainer | Systems Builder</h1>
+<h1 align="center">Software Engineer | Python Trainer<br>Data Science & CyberSecurity M.Sc. Candidate</h1>
 
 <br>
 
