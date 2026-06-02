@@ -33,8 +33,8 @@
 ## About Me
 
 - **Software Engineer** focused on building practical, production-ready software.
-- Experienced in **full-stack development, backend systems, and automation tools**.
-- Strong focus on **clean architecture, performance, and maintainable code**.
+- Experienced in **full-stack development**, **backend systems**, and **automation tools**.
+- Strong focus on **clean architecture**, **performance**, and **maintainable code**.
 - Comfortable working across the stack, from **backend logic and APIs** to **frontend interfaces and deployment**.
 - Python trainer helping developers learn **real-world programming** and **problem solving**.
 
